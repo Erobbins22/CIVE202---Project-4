@@ -9,17 +9,17 @@ Natural disasters can have a big impact on communities, they bring out great pro
 ---
 ## Repository Structure
 
-- [Project 4 Code](CIVE202_Spring2026_Group7_Project3_Code.ipynb): This is the code that contains all the data analysis, visualization code, and IDM simulation. 
-- [Definition of Risk](NHTS.csv):Dataset containing United States transportation usage characteristics. 
-- [Geopandas Investigation](NGSIM.csv):Dataset containing high-resolution vehicle trajectory and driving behavior data.
+- [Project 4 Code](CIVE202_Spring2026_Project4_Group415108_Code.ipynb): This is the code that contains all the data analysis, visualization code, and IDM simulation. 
+- [Definition of Risk](Definition_of_Rish_(New).docx):Dataset containing United States transportation usage characteristics. 
+- [Geopandas Investigation](Geopandas_Investigation.docx):Dataset containing high-resolution vehicle trajectory and driving behavior data.
 
 
 All the data below is the exported plots:
--[Gantt Chart]
--[Engineering Timesheet]
--[Figure 1 - Risk Rating Distribution]
--[Figure 2 - Scatter Plot]
--[Figure 3 - Risk Map]
+-[Gantt Chart](CIVE202_Spring2026__Project4_Group415108_Ganttchart.xlsx)
+-[Engineering Timesheet]()
+-[Figure 1 - Risk Rating Distribution](figure1_rating_distribution.png)
+-[Figure 2 - Scatter Plot](figure2_scatter.png)
+-[Figure 3 - Risk Map](figure3_rish_map.png)
 
 ---
 ## User Guide
