@@ -17,10 +17,10 @@ The Department of Homeland Security for the Federal Emergency Management Agency 
 All the data below is the exported plots:
 
 -[Gantt Chart](CIVE202_Spring2026__Project4_Group415108_Ganttchart.xlsx),
--[Engineering Timesheet](),
--[Figure 1 - Risk Rating Distribution](figure1_rating_distribution(1).png),
--[Figure 2 - Scatter Plot](figure2_scatter(3).png),
--[Figure 3 - Risk Map](figure3_rish_map(2).png),
+[Engineering Timesheet](),
+[Figure 1 - Risk Rating Distribution](figure1_rating_distribution(1).png),
+[Figure 2 - Scatter Plot](figure2_scatter(3).png),
+[Figure 3 - Risk Map](figure3_rish_map(2).png),
 
 ---
 ## User Guide
@@ -28,7 +28,6 @@ All the data below is the exported plots:
 ### 1. Program Overview
 This notebook automates the loading, cleaning, and joining of NRI and SVI datasets for two states, computes an alternative risk index, generates summary visualizations, and produces a GeoPandas choropleth map. The analysis is designed to help Risk Averse, LLC identify potential categorical bias in the NRI scoring methodology.
 ### 2. Data Requirement 
-- [NRI_Table_CensusTracts.csv]() - FEMA NRIA Data Resources - Census Tract level
 - [NRI Data Dictionary.csv](NRIDataDictionary.xls) - FEMA NRI Metadata
 - [Wyoming.csv](Wyoming.xls) - CDC/ATSDR SVI - Wyoming
 - [Oklahoma.csv](Oklahoma.xls)- CDC/ATSDR SVI - Oklahoma
