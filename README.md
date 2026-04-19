@@ -3,7 +3,7 @@
 ## Project Description
 Natural disasters can have a big impact on communities, they bring out great property and economic loss and often death tolls (Natural Disasters: What They Are, Causes and Characteristics, n.d.). They are caused by the occurrence of an extreme natural phenomenon that affects negatively in a given area. Because of this Risk Averse, LLC, an independent risk analysis consulting group, asked our group of engineers for an analysis of natural disasters risk in two states: Oklahoma and Wyoming. 
 
- 	The Department of Homeland Security for the Federal Emergency Management Agency (FEMA) developed the National Risk Index (NRI) which measures the relative risk of natural disasters across the United States. The NRI dataset can help find Expected Annual Loss, Social Vulnerability, and Community Resilience. However, the risk defined in the NRI dataset may not always represent real world conditions, and some factors may be looked at differently or not as much importance. Risk Averse, LLC tasked our team to research and create alternative risk methods that can use the NRI dataset as input, but also proposing a new definition that is understandable and readable to ordinary people. In this project, we analyze disasters for Oklahoma and Wyoming and created our own definition of risk that focuses on hazard exposure. To complete our give task, our team used the NRI and Social Vulnerability Index (SVI) dataset, which was cleaned, organized and combined to ensure accurate results, and handle missing values. Using tools like GeoPandas, we created maps, tables, and graphs to visualize and compare the original NRI results with our new model. This report will explain the methods we used to complete the analysis. Overall, this project helps highlight the importance of how risk is defined and measured and how definitions can impact decisions like supporting communities or planning disasters. 
+The Department of Homeland Security for the Federal Emergency Management Agency (FEMA) developed the National Risk Index (NRI) which measures the relative risk of natural disasters across the United States. The NRI dataset can help find Expected Annual Loss, Social Vulnerability, and Community Resilience. However, the risk defined in the NRI dataset may not always represent real world conditions, and some factors may be looked at differently or not as much importance. Risk Averse, LLC tasked our team to research and create alternative risk methods that can use the NRI dataset as input, but also proposing a new definition that is understandable and readable to ordinary people. In this project, we analyze disasters for Oklahoma and Wyoming and created our own definition of risk that focuses on hazard exposure. To complete our give task, our team used the NRI and Social Vulnerability Index (SVI) dataset, which was cleaned, organized and combined to ensure accurate results, and handle missing values. Using tools like GeoPandas, we created maps, tables, and graphs to visualize and compare the original NRI results with our new model. This report will explain the methods we used to complete the analysis. Overall, this project helps highlight the importance of how risk is defined and measured and how definitions can impact decisions like supporting communities or planning disasters. 
 
 
 ---
@@ -15,11 +15,13 @@ Natural disasters can have a big impact on communities, they bring out great pro
 
 
 All the data below is the exported plots:
+
+
 -[Gantt Chart](CIVE202_Spring2026__Project4_Group415108_Ganttchart.xlsx)
 -[Engineering Timesheet]()
--[Figure 1 - Risk Rating Distribution](figure1_rating_distribution.png)
--[Figure 2 - Scatter Plot](figure2_scatter.png)
--[Figure 3 - Risk Map](figure3_rish_map.png)
+-[Figure 1 - Risk Rating Distribution](figure1_rating_distribution(1).png)
+-[Figure 2 - Scatter Plot](figure2_scatter(3).png)
+-[Figure 3 - Risk Map](figure3_rish_map(2).png)
 
 ---
 ## User Guide
@@ -27,12 +29,12 @@ All the data below is the exported plots:
 ### 1. Program Overview
 This notebook automates the loading, cleaning, and joining of NRI and SVI datasets for two states, computes an alternative risk index, generates summary visualizations, and produces a GeoPandas choropleth map. The analysis is designed to help Risk Averse, LLC identify potential categorical bias in the NRI scoring methodology.
 ### 2. Data Requirement 
-- [NRI_Table_CensusTracts.csv] - FEMA NRIA Data Resources - Census Tract level
-- [NRI Data Dictionary.csv] - FEMA NRI Metadata
-- [Wyoming.csv] - CDC/ATSDR SVI - Wyoming
-- [Oklahoma.csv]- CDC/ATSDR SVI - Oklahoma
-- [tl_2022_56_tract.zip] - Census TIGER/Line Shapefile - Wyoming tracts
-- [tl_2022_40_tract.zip] - Census TIGER/Line Shapefile - Oklahoma tracts
+- [NRI_Table_CensusTracts.csv]() - FEMA NRIA Data Resources - Census Tract level
+- [NRI Data Dictionary.csv](NRIDataDictionary.xls) - FEMA NRI Metadata
+- [Wyoming.csv](Wyoming.xls) - CDC/ATSDR SVI - Wyoming
+- [Oklahoma.csv](Oklahoma.xls)- CDC/ATSDR SVI - Oklahoma
+- [tl_2022_56_tract.zip](tl_2022_56_tract(1).zip) - Census TIGER/Line Shapefile - Wyoming tracts
+- [tl_2022_40_tract.zip](tl_2022_40_tract(1).zip) - Census TIGER/Line Shapefile - Oklahoma tracts
 
 ### 3. Execution Sequence
 - Data Loading & Filtering — The notebook loads the full NRI Census Tract CSV and filters for Wyoming and Oklahoma.
@@ -62,7 +64,7 @@ The goal of this project is to evaluate the National Risk Index (NRI) and determ
 ---
 ## Project Documentation
 Links:
-- [Scope of Work](CIVE202_Spring2026_Group7_Project3_SOW.docx)
+- [Scope of Work](CIVE202_Spring2026__Project4_Group415108_SOW(1).docx)
 - [ACD](CIVE202_Spring2026_Group7_Project3_ACD.docx)
 - [Written Report](CIVE202_Spring2026_Group7_Project3_Report.docx)
 
