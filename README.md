@@ -16,12 +16,11 @@ The Department of Homeland Security for the Federal Emergency Management Agency 
 
 All the data below is the exported plots:
 
-
--[Gantt Chart](CIVE202_Spring2026__Project4_Group415108_Ganttchart.xlsx)
--[Engineering Timesheet]()
--[Figure 1 - Risk Rating Distribution](figure1_rating_distribution(1).png)
--[Figure 2 - Scatter Plot](figure2_scatter(3).png)
--[Figure 3 - Risk Map](figure3_rish_map(2).png)
+-[Gantt Chart](CIVE202_Spring2026__Project4_Group415108_Ganttchart.xlsx),
+-[Engineering Timesheet](),
+-[Figure 1 - Risk Rating Distribution](figure1_rating_distribution(1).png),
+-[Figure 2 - Scatter Plot](figure2_scatter(3).png),
+-[Figure 3 - Risk Map](figure3_rish_map(2).png),
 
 ---
 ## User Guide
