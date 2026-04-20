@@ -62,8 +62,8 @@ The goal of this project is to evaluate the National Risk Index (NRI) and determ
 ---
 ## Project Documentation
 Links:
-- [Scope of Work](CIVE202_Spring2026__Project4_Group415108_SOW(1).docx)
+- [Scope of Work](CIVE202_Spring2026_Group415108_Project4_SOW(1).docx)
 - [ACD](CIVE202_Spring2026_Group7_Project3_ACD.docx)
-- [Written Report](CIVE202_Spring2026_Group7_Project3_Report.docx)
+- [Written Report](CIVE202_Spring2026__Group415108_Project4_Report.docx)
 
 
