@@ -16,8 +16,8 @@ The Department of Homeland Security for the Federal Emergency Management Agency 
 
 All the data below is the exported plots:
 
--[Gantt Chart](CIVE202_Spring2026__Project4_Group415108_Ganttchart.xlsx),
-[Engineering Timesheet](),
+-[Gantt Chart](CIVE202_Spring2026_GroupP4-151-08_Project4_Ganttchart.xlsx),
+[Engineering Timesheet](CIVE202_Spring2026_GroupP4-151-08_Project4_Timesheet.xlsx),
 [Figure 1 - Risk Rating Distribution](figure1_rating_distribution(1).png),
 [Figure 2 - Scatter Plot](figure2_scatter(3).png),
 [Figure 3 - Risk Map](figure3_rish_map(2).png),
@@ -62,8 +62,8 @@ The goal of this project is to evaluate the National Risk Index (NRI) and determ
 ---
 ## Project Documentation
 Links:
-- [Scope of Work](CIVE202_Spring2026_Group415108_Project4_SOW(1).docx)
-- [ACD](CIVE202_Spring2026_Group7_Project3_ACD.docx)
-- [Written Report](CIVE202_Spring2026__Group415108_Project4_Report.docx)
+- [Scope of Work](CIVE202_Spring2026_GroupP4-151-08_Project4_SOW(1).docx)
+- [ACD](CIVE202_Spring2026__GroupP4-151-08_Project4_ACD.docx)
+- [Written Report](CIVE202_Spring2026__GroupP4-151-08_Project4_Report.docx)
 
 
